@@ -5,8 +5,8 @@
 
 [백엔드 저장소](https://github.com/msa4-lms/msa4-lms) · [프론트엔드 저장소](https://github.com/msa4-lms/msa4-lms-client) · [프로젝트 문서](https://app.notion.com/p/MSA4-LMS-1-37dbf02975b380578d08d95862a13b71?source=copy_link) · [발표 자료](https://canva.link/vbbkpjihy0kn6w5) · [시연 영상](https://drive.google.com/file/d/1XI8K8ggCF-swAAxELeolvRCE6yN7k4iD/view?usp=sharing)
 
-![미래대학교 학사관리시스템 대표 화면](/assets/미래대학교_대표화면.png)
-![미래대학교 학사관리시스템 대시보드](/assets/미래대학교_대시보드.png)
+![미래대학교 학사관리시스템 대표 화면](../assets/미래대학교_대표화면.png)
+![미래대학교 학사관리시스템 대시보드](../assets/미래대학교_대시보드.png)
 
 ## 프로젝트 개요
 
